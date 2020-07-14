@@ -1,0 +1,36 @@
+{
+  "_fv": 8,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "domination",
+    "customModelName": "Normal",
+    "name": "Sorceryshard",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Runecraft"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": true,
+    "usageCount": 99999,
+    "actionSound": {
+      "value": ""
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 4.0,
+    "bulletPower": 2.0,
+    "bulletDamage": 7.0,
+    "bulletKnockback": 0,
+    "bulletParticles": true,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "Blocks.END_GATEWAY"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

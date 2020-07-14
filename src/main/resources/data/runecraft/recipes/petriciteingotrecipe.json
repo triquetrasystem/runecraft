@@ -1,0 +1,19 @@
+{
+  "group": "runecraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:polished_andesite"
+    },
+    {
+      "item": "minecraft:charcoal"
+    },
+    {
+      "item": "runecraft:petricitelog"
+    }
+  ],
+  "result": {
+    "item": "runecraft:petricite_ingot",
+    "count": 1
+  }
+}

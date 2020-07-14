@@ -1,0 +1,24 @@
+{
+  "_fv": 8,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "rainstone_axe",
+    "customModelName": "Normal",
+    "name": "Rainstone Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 3,
+    "efficiency": 8.0,
+    "attackSpeed": 1.0,
+    "enchantability": 21,
+    "damageVsEntity": 3.0,
+    "usageCount": 441,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

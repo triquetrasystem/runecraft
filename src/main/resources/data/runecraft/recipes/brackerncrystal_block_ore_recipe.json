@@ -1,0 +1,13 @@
+{
+  "group": "runecraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "runecraft:brackerncrystal_ore_block"
+    }
+  ],
+  "result": {
+    "item": "runecraft:brackerncrystal_gem",
+    "count": 9
+  }
+}

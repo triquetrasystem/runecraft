@@ -1,0 +1,34 @@
+{
+  "_fv": 8,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "resolve",
+    "customModelName": "Normal",
+    "name": "Resolve",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Runecraft"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 99999,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "Blocks.STONE#0"
+      }
+    ],
+    "onItemInInventoryTick": {
+      "name": "ResolveToolInInventoryTick"
+    },
+    "onItemInUseTick": {
+      "name": "ResolveToolInHandTick"
+    }
+  }
+}

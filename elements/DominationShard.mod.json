@@ -1,0 +1,31 @@
+{
+  "_fv": 8,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "domination",
+    "customModelName": "Normal",
+    "name": "Domination Shard",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Runecraft"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 20,
+    "damageVsEntity": 10.0,
+    "usageCount": 99999,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "Blocks.STONE#0"
+      }
+    ],
+    "onItemInInventoryTick": {
+      "name": "DominationShardToolInInventoryTick"
+    }
+  }
+}

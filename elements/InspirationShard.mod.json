@@ -1,0 +1,31 @@
+{
+  "_fv": 8,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "inspiration",
+    "customModelName": "Normal",
+    "name": "Inspiration Shard",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Runecraft"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 10,
+    "efficiency": 10.0,
+    "attackSpeed": 1.0,
+    "enchantability": 10,
+    "damageVsEntity": 4.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "Blocks.STONE#0"
+      }
+    ],
+    "onItemInInventoryTick": {
+      "name": "InspirationShardToolInInventoryTick"
+    }
+  }
+}

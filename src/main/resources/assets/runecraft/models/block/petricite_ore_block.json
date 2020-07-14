@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "runecraft:blocks/petricite_ore_block",
+    "particle": "runecraft:blocks/petricite_ore_block"
+  }
+}

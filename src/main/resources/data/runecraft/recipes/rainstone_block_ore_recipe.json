@@ -1,0 +1,13 @@
+{
+  "group": "runecraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "runecraft:rainstone_ore_block"
+    }
+  ],
+  "result": {
+    "item": "runecraft:rainstone_ingot",
+    "count": 9
+  }
+}

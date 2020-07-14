@@ -1,0 +1,34 @@
+{
+  "_fv": 8,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "precision",
+    "customModelName": "Normal",
+    "name": "Precision Shard",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Special",
+    "harvestLevel": 0,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 10,
+    "damageVsEntity": 5.0,
+    "usageCount": 99999,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "Blocks.STONE#0"
+      }
+    ],
+    "onRightClickedInAir": {
+      "name": "PrecisionShardRightClickedInAir"
+    },
+    "onItemInInventoryTick": {
+      "name": "PrecisionShardToolInInventoryTick"
+    }
+  }
+}

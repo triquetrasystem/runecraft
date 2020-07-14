@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "runecraft:block/runeterra_portal_ew"
+    },
+    "axis=x": {
+      "model": "runecraft:block/runeterra_portal_ns"
+    }
+  }
+}

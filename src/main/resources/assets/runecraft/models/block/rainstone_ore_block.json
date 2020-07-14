@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "runecraft:blocks/rainstone_ore_block",
+    "particle": "runecraft:blocks/rainstone_ore_block"
+  }
+}

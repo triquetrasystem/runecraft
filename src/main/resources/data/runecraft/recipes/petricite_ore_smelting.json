@@ -1,0 +1,12 @@
+{
+  "group": "runecraft",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "runecraft:petricite_ore"
+  },
+  "result": {
+    "item": "runecraft:petricite_ingot"
+  }
+}

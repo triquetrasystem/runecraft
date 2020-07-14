@@ -1,0 +1,30 @@
+{
+  "group": "runecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "runecraft:rainstone_ingot"
+    },
+    "1": {
+      "item": "runecraft:rainstone_ingot"
+    },
+    "2": {
+      "item": "runecraft:rainstone_ingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "runecraft:rainstone_axe",
+    "count": 1
+  }
+}

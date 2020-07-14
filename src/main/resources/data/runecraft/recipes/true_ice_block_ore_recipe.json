@@ -1,0 +1,13 @@
+{
+  "group": "runecraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "runecraft:true_ice_ore_block"
+    }
+  ],
+  "result": {
+    "item": "runecraft:true_ice_gem",
+    "count": 9
+  }
+}

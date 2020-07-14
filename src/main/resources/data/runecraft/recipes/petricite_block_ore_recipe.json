@@ -1,0 +1,13 @@
+{
+  "group": "runecraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "runecraft:petricite_ore_block"
+    }
+  ],
+  "result": {
+    "item": "runecraft:petricite_ingot",
+    "count": 9
+  }
+}

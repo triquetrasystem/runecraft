@@ -1,0 +1,11 @@
+{
+  "_fv": 8,
+  "_type": "tab",
+  "definition": {
+    "name": "Runecraft",
+    "icon": {
+      "value": "CUSTOM:Runeterra"
+    },
+    "showSearch": true
+  }
+}

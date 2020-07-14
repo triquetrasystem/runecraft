@@ -1,0 +1,26 @@
+{
+  "group": "runecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "runecraft:true_ice_gem"
+    },
+    "2": {
+      "item": "runecraft:true_ice_gem"
+    },
+    "3": {
+      "item": "runecraft:true_ice_gem"
+    },
+    "5": {
+      "item": "runecraft:true_ice_gem"
+    }
+  },
+  "result": {
+    "item": "runecraft:true_ice_armorboots",
+    "count": 1
+  }
+}

@@ -1,0 +1,877 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Runeterra",
+      "type": "dimension",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runeterra"
+    },
+    {
+      "name": "Ionia",
+      "type": "biome",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ionia"
+    },
+    {
+      "name": "RainstoneOre",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainstone_ore"
+    },
+    {
+      "name": "RainstoneOreBlock",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainstone_ore_block"
+    },
+    {
+      "name": "RainstoneIngot",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainstone_ingot"
+    },
+    {
+      "name": "RainstoneOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainstone_ore_block_recipe"
+    },
+    {
+      "name": "RainstoneBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainstone_block_ore_recipe"
+    },
+    {
+      "name": "RainstoneOreSmelting",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainstone_ore_smelting"
+    },
+    {
+      "name": "RainstonePickaxe",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainstone_pickaxe"
+    },
+    {
+      "name": "RainstoneAxe",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainstone_axe"
+    },
+    {
+      "name": "RainstoneSword",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainstone_sword"
+    },
+    {
+      "name": "RainstoneShovel",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainstone_shovel"
+    },
+    {
+      "name": "RainstoneHoe",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainstone_hoe"
+    },
+    {
+      "name": "RainstonePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainstone_pickaxe_recipe"
+    },
+    {
+      "name": "RainstoneAxeRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainstone_axe_recipe"
+    },
+    {
+      "name": "RainstoneSwordRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainstone_sword_recipe"
+    },
+    {
+      "name": "RainstoneShovelRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainstone_shovel_recipe"
+    },
+    {
+      "name": "RainstoneHoeRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rainstone_hoe_recipe"
+    },
+    {
+      "name": "Noxus",
+      "type": "biome",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "noxus"
+    },
+    {
+      "name": "Petricitelog",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "petricitelog"
+    },
+    {
+      "name": "PetriciteOreBlock",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "petricite_ore_block"
+    },
+    {
+      "name": "PetriciteIngot",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "petricite_ingot"
+    },
+    {
+      "name": "PetriciteOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "petricite_ore_block_recipe"
+    },
+    {
+      "name": "PetriciteBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "petricite_block_ore_recipe"
+    },
+    {
+      "name": "PetriciteOreSmelting",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "petricite_ore_smelting"
+    },
+    {
+      "name": "Petriciteingotrecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "petriciteingotrecipe"
+    },
+    {
+      "name": "PetriciteArmor",
+      "type": "armor",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "petricite_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "PetriciteArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "petricite_armor_helmet_recipe"
+    },
+    {
+      "name": "PetriciteArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "petricite_armor_body_recipe"
+    },
+    {
+      "name": "PetriciteArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "petricite_armor_leggings_recipe"
+    },
+    {
+      "name": "PetriciteArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "petricite_armor_boots_recipe"
+    },
+    {
+      "name": "Demacia",
+      "type": "biome",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "demacia"
+    },
+    {
+      "name": "Shurima",
+      "type": "biome",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shurima"
+    },
+    {
+      "name": "BrackerncrystalOre",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brackerncrystal_ore"
+    },
+    {
+      "name": "BrackerncrystalOreBlock",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brackerncrystal_ore_block"
+    },
+    {
+      "name": "BrackerncrystalGem",
+      "type": "item",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brackerncrystal_gem"
+    },
+    {
+      "name": "BrackerncrystalOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brackerncrystal_ore_block_recipe"
+    },
+    {
+      "name": "BrackerncrystalBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brackerncrystal_block_ore_recipe"
+    },
+    {
+      "name": "BrackerncrystalOreSmelting",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brackerncrystal_ore_smelting"
+    },
+    {
+      "name": "Frejord",
+      "type": "biome",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frejord"
+    },
+    {
+      "name": "TrueIceOre",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "true_ice_ore"
+    },
+    {
+      "name": "TrueIceOreBlock",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "true_ice_ore_block"
+    },
+    {
+      "name": "TrueIceGem",
+      "type": "item",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "true_ice_gem"
+    },
+    {
+      "name": "TrueIceOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "true_ice_ore_block_recipe"
+    },
+    {
+      "name": "TrueIceBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "true_ice_block_ore_recipe"
+    },
+    {
+      "name": "TrueIceOreSmelting",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "true_ice_ore_smelting"
+    },
+    {
+      "name": "Ixtal",
+      "type": "biome",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ixtal"
+    },
+    {
+      "name": "HextechPickaxe",
+      "type": "tool",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hextech_pickaxe"
+    },
+    {
+      "name": "HextechAxe",
+      "type": "tool",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hextech_axe"
+    },
+    {
+      "name": "HextechSword",
+      "type": "tool",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hextech_sword"
+    },
+    {
+      "name": "HextechShovel",
+      "type": "tool",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hextech_shovel"
+    },
+    {
+      "name": "HextechHoe",
+      "type": "tool",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hextech_hoe"
+    },
+    {
+      "name": "HextechAxeRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hextech_axe_recipe"
+    },
+    {
+      "name": "HextechSwordRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hextech_sword_recipe"
+    },
+    {
+      "name": "HextechShovelRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hextech_shovel_recipe"
+    },
+    {
+      "name": "HextechHoeRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hextech_hoe_recipe"
+    },
+    {
+      "name": "TrueIcePickaxe",
+      "type": "tool",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "true_ice_pickaxe"
+    },
+    {
+      "name": "TrueIceAxe",
+      "type": "tool",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "true_ice_axe"
+    },
+    {
+      "name": "TrueIceSword",
+      "type": "tool",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "true_ice_sword"
+    },
+    {
+      "name": "TrueIceShovel",
+      "type": "tool",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "true_ice_shovel"
+    },
+    {
+      "name": "TrueIceHoe",
+      "type": "tool",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "true_ice_hoe"
+    },
+    {
+      "name": "TrueIcePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "true_ice_pickaxe_recipe"
+    },
+    {
+      "name": "TrueIceAxeRecipe",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "true_ice_axe_recipe"
+    },
+    {
+      "name": "TrueIceSwordRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "true_ice_sword_recipe"
+    },
+    {
+      "name": "TrueIceShovelRecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "true_ice_shovel_recipe"
+    },
+    {
+      "name": "TrueIceHoeRecipe",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "true_ice_hoe_recipe"
+    },
+    {
+      "name": "TrueIceArmor",
+      "type": "armor",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "true_ice_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "TrueIceArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "true_ice_armor_helmet_recipe"
+    },
+    {
+      "name": "TrueIceArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "true_ice_armor_body_recipe"
+    },
+    {
+      "name": "TrueIceArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "true_ice_armor_leggings_recipe"
+    },
+    {
+      "name": "TrueIceArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "true_ice_armor_boots_recipe"
+    },
+    {
+      "name": "Runecraft",
+      "type": "tab",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "runecraft"
+    },
+    {
+      "name": "PrecisionShardToolInInventoryTick",
+      "type": "procedure",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "precision_shard_tool_in_inventory_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PrecisionShardRightClickedInAir",
+      "type": "procedure",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "precision_shard_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PrecisionShard",
+      "type": "tool",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "precision_shard"
+    },
+    {
+      "name": "DominationShardToolInInventoryTick",
+      "type": "procedure",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "domination_shard_tool_in_inventory_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DominationShard",
+      "type": "tool",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "domination_shard"
+    },
+    {
+      "name": "Sorceryshard",
+      "type": "gun",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sorceryshard"
+    },
+    {
+      "name": "ResolveToolInInventoryTick",
+      "type": "procedure",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "resolve_tool_in_inventory_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ResolveToolInHandTick",
+      "type": "procedure",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "resolve_tool_in_hand_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Resolve",
+      "type": "tool",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "resolve"
+    },
+    {
+      "name": "InspirationShardToolInInventoryTick",
+      "type": "procedure",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "inspiration_shard_tool_in_inventory_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "InspirationShard",
+      "type": "tool",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "inspiration_shard"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.runecraft.rainstone_pickaxe": "Rainstone Pickaxe",
+      "item.runecraft.true_ice_gem": "TrueIce",
+      "item.runecraft.true_ice_axe": "TrueIce Axe",
+      "block.runecraft.true_ice_ore": "TrueIce Ore",
+      "item.runecraft.true_ice_armorhelmet": "TrueIce Helmet",
+      "block.runecraft.brackerncrystal_ore": "Brackerncrystal Ore",
+      "block.runecraft.petricitelog": "Petricitelog",
+      "item.runecraft.true_ice_pickaxe": "TrueIce Pickaxe",
+      "block.runecraft.rainstone_ore_block": "Block of Rainstone",
+      "item.runecraft.hextech_sword": "Hextech Sword",
+      "item.runecraft.true_ice_armorbody": "TrueIce Chestplate",
+      "item.runecraft.petricite_armorhelmet": "Petricite Helmet",
+      "item.runecraft.hextech_pickaxe": "Hextech Pickaxe",
+      "item.runecraft.rainstone_sword": "Rainstone Sword",
+      "block.runecraft.petricite_ore_block": "Block of Petricite",
+      "item.runecraft.rainstone_shovel": "Rainstone Shovel",
+      "item.runecraft.precision_shard": "Precision Shard",
+      "item.runecraft.sorceryshard": "Sorceryshard",
+      "item.runecraft.hextech_axe": "Hextech Axe",
+      "item.runecraft.resolve": "Resolve",
+      "item.runecraft.rainstone_ingot": "Rainstone",
+      "item.runecraft.brackerncrystal_gem": "Brackerncrystal",
+      "item.runecraft.true_ice_sword": "TrueIce Sword",
+      "block.runecraft.rainstone_ore": "Rainstone Ore",
+      "itemGroup.tabrunecraft": "Runecraft",
+      "item.runecraft.rainstone_hoe": "Rainstone Hoe",
+      "item.runecraft.petricite_armorboots": "Petricite Boots",
+      "item.runecraft.hextech_hoe": "Hextech Hoe",
+      "item.runecraft.domination_shard": "Domination Shard",
+      "item.runecraft.inspiration_shard": "Inspiration Shard",
+      "block.runecraft.true_ice_ore_block": "Block of TrueIce",
+      "item.runecraft.true_ice_hoe": "TrueIce Hoe",
+      "item.runecraft.petricite_armorlegs": "Petricite Leggings",
+      "block.runecraft.brackerncrystal_ore_block": "Block of Brackerncrystal",
+      "item.runecraft.hextech_shovel": "Hextech Shovel",
+      "item.runecraft.runeterra": "Runeterra Portal Igniter",
+      "item.runecraft.petricite_ingot": "Petricite",
+      "item.runecraft.true_ice_armorlegs": "TrueIce Leggings",
+      "item.runecraft.true_ice_armorboots": "TrueIce Boots",
+      "item.runecraft.petricite_armorbody": "Petricite Chestplate",
+      "item.runecraft.true_ice_shovel": "TrueIce Shovel",
+      "item.runecraft.rainstone_axe": "Rainstone Axe"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "runecraft",
+    "modName": "runecraft",
+    "version": "1.0.0",
+    "author": "Lap top, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.runecraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000322116
+}

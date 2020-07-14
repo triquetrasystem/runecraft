@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "runecraft:blocks/trueice_ore",
+    "particle": "runecraft:blocks/trueice_ore"
+  }
+}

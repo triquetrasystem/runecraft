@@ -1,0 +1,24 @@
+{
+  "_fv": 8,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "trueice_sword",
+    "customModelName": "Normal",
+    "name": "TrueIce Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 3,
+    "efficiency": 8.0,
+    "attackSpeed": 1.0,
+    "enchantability": 22,
+    "damageVsEntity": 3.0,
+    "usageCount": 483,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

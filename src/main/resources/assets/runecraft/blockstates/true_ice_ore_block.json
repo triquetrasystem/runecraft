@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "runecraft:block/true_ice_ore_block"
+    }
+  }
+}

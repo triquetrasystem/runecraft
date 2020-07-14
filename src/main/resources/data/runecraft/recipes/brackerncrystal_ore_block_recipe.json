@@ -1,0 +1,42 @@
+{
+  "group": "runecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "runecraft:brackerncrystal_gem"
+    },
+    "1": {
+      "item": "runecraft:brackerncrystal_gem"
+    },
+    "2": {
+      "item": "runecraft:brackerncrystal_gem"
+    },
+    "3": {
+      "item": "runecraft:brackerncrystal_gem"
+    },
+    "4": {
+      "item": "runecraft:brackerncrystal_gem"
+    },
+    "5": {
+      "item": "runecraft:brackerncrystal_gem"
+    },
+    "6": {
+      "item": "runecraft:brackerncrystal_gem"
+    },
+    "7": {
+      "item": "runecraft:brackerncrystal_gem"
+    },
+    "8": {
+      "item": "runecraft:brackerncrystal_gem"
+    }
+  },
+  "result": {
+    "item": "runecraft:brackerncrystal_ore_block",
+    "count": 1
+  }
+}

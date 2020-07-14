@@ -1,0 +1,30 @@
+{
+  "group": "runecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "runecraft:true_ice_gem"
+    },
+    "1": {
+      "item": "runecraft:true_ice_gem"
+    },
+    "2": {
+      "item": "runecraft:true_ice_gem"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "runecraft:true_ice_pickaxe",
+    "count": 1
+  }
+}

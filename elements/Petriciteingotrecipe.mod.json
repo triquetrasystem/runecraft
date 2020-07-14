@@ -1,0 +1,46 @@
+{
+  "_fv": 8,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.STONE#6"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.COAL#1"
+      },
+      {
+        "value": "CUSTOM:Petricitelog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PetriciteIngot"
+    },
+    "name": "petriciteingotrecipe",
+    "namespace": "mod"
+  }
+}
